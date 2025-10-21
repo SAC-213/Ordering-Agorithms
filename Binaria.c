@@ -1,10 +1,3 @@
-/*                                  *
-*   Alumno: Saul Ascencion Cruz     *
-*   Grupo: 2BM2                     *
-*                                   *
-*                                   *
-*   -   -   -   -   -   -   -   -   *
-*/   
 #include <stdio.h>
 #include <stdlib.h>
 
